@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "もっふもふ DE よいのじゃよ",
+  "base_artist": "仙狐（CV：和氣あず未）",
+  "createdAt": "2025-12-28T11:30:59.738068Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "もっふもふ DE よいのじゃよ",
+      "artist": "仙狐(CV:和氣あず未)",
+      "has_synced": true,
+      "path": "select/01_もっふもふ_DE_よいのじゃよ_仙狐(CV_和氣あず未).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "もっふもふ DE よいのじゃよ",
+      "artist": "仙狐(CV: 和氣あず未)",
+      "has_synced": true,
+      "path": "select/02_もっふもふ_DE_よいのじゃよ_仙狐(CV__和氣あず未).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "もっふもふ DE よいのじゃよ",
+      "artist": "和氣あず未",
+      "has_synced": true,
+      "path": "select/03_もっふもふ_DE_よいのじゃよ_和氣あず未.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "もっふもふ DE よいのじゃよ (instrumental)",
+      "artist": "V.A.",
+      "has_synced": true,
+      "path": "select/04_もっふもふ_DE_よいのじゃよ_(instrumental)_V.A..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "もっふもふ DE よいのじゃよ",
+      "artist": "V.A.",
+      "has_synced": true,
+      "path": "select/05_もっふもふ_DE_よいのじゃよ_V.A..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "もっふもふ DE よいのじゃよ",
+      "artist": "仙狐(CV:和氣あず未)/シロ(CV:内田真礼)",
+      "has_synced": true,
+      "path": "select/06_もっふもふ_DE_よいのじゃよ_仙狐(CV_和氣あず未)_シロ(CV_内田真礼).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "もっふもふ DE よいのじゃよ(instrumental)",
+      "artist": "仙狐(CV:和氣あず未)&シロ(CV:内田真礼)",
+      "has_synced": true,
+      "path": "select/07_もっふもふ_DE_よいのじゃよ(instrumental)_仙狐(CV_和氣あず未)&シロ(CV_内田真礼).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "もっふもふ DE よいのじゃよ",
+      "artist": "仙狐(CV:和氣あず未)&シロ(CV:内田真礼)",
+      "has_synced": true,
+      "path": "select/08_もっふもふ_DE_よいのじゃよ_仙狐(CV_和氣あず未)&シロ(CV_内田真礼).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "もっふもふ DE よいのじゃよ",
+      "artist": "仙狐",
+      "has_synced": true,
+      "path": "select/09_もっふもふ_DE_よいのじゃよ_仙狐.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "もっふもふ DE よいのじゃよ",
+      "artist": "仙狐 (和氣あず未) & シロ (内田真礼)",
+      "has_synced": true,
+      "path": "select/10_もっふもふ_DE_よいのじゃよ_仙狐_(和氣あず未)_&_シロ_(内田真礼).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "もっふもふ DE よいのじゃよ (instrumental)",
+      "artist": "Senko(CV:Azumi Waki)/Shiro(CV:Maaya Uchida)",
+      "has_synced": true,
+      "path": "select/11_もっふもふ_DE_よいのじゃよ_(instrumental)_Senko(CV_Azumi_Waki)_Shiro(CV_Maaya_Uchida).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "もっふもふ DE よいのじゃよ",
+      "artist": "Senko",
+      "has_synced": true,
+      "path": "select/12_もっふもふ_DE_よいのじゃよ_Senko.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "もっふもふ DE よいのじゃよ",
+      "artist": "仙狐(CV:和氣あず未",
+      "has_synced": true,
+      "path": "select/13_もっふもふ_DE_よいのじゃよ_仙狐(CV_和氣あず未.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もっふもふ DE よいのじゃよ",
+      "artist": "仙狐(和氣あず未)",
+      "has_synced": false,
+      "path": "select/pl_01_もっふもふ_DE_よいのじゃよ_仙狐(和氣あず未).txt"
+    }
+  ]
+}
